@@ -83,8 +83,11 @@ Contributions and suggestions are welcome!
 To contribute:
 
 🍴 Fork the repository
+
 🌿 Create a new branch
+
 🧠 Add improvements or new programs
+
 🔁 Submit a pull request
 
 All valuable contributions will be acknowledged.
