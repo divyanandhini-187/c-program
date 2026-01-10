@@ -91,3 +91,13 @@ To contribute:
 🔁 Submit a pull request
 
 All valuable contributions will be acknowledged.
+
+## 🔗 Course Reference
+
+Website: Etalvis Course
+
+Course Link: Etalvis Learning Platform
+
+## 🚀 Future Goals
+
+I am excited to continue my journey in embedded systems and build real-time, industry-based projects.
