@@ -9,8 +9,11 @@ The primary focus of this repository is to strengthen core C concepts required f
 ## 🧠 Learning Methodology
 
 ✔ Concept-driven learning
+
 ✔ Step-by-step difficulty progression
+
 ✔ Emphasis on memory, logic, and structure
+
 ✔ Practical problem-solving approach
 
 Each level reinforces previously learned concepts while introducing new ones.
