@@ -1,0 +1,19 @@
+#include<stdio.h>
+void disp_count_HCF2()
+{
+    int a,b,gcd=1;
+    scanf("%d %d",&a,&b);
+    for(int i=2;i<=a && i<=b;i++)
+    {
+        if(a%i==0&&b%i==0)
+        {
+            gcd=i;
+        }
+    }
+    printf("%d",gcd);
+}
+int main()
+{
+    disp_count_HCF2();
+    return 0;
+}
